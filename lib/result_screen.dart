@@ -20,7 +20,7 @@ class ResultScreen extends StatefulWidget {
 
 class _ResultScreenState extends State<ResultScreen> {
 
-  final apiKey = 'AIzaSyDZxuXqjDiMk9H4QwPrNoZ-7F_xwD87oUI';
+  final apiKey = ''; // Insert API key
 
   // State variables
   String foodName = 'N/A';
